@@ -9,6 +9,12 @@ import javafx.stage.Stage;
 
 import java.util.Stack;
 
+/*
+ * If you are having trouble running this file pull this github into intelliJ for javaFX
+ *
+ * Git: https://github.com/bwoods919/GroupProject.git
+ * */
+
 public class DFS extends Application {
 
     private static final int[][] edge = {

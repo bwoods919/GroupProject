@@ -3,7 +3,7 @@ package com.cs_4306.groupproject;
 /*
 * If you are having trouble running this file pull this github into intelliJ for javaFX
 *
-* Git: 
+* Git: https://github.com/bwoods919/GroupProject.git
 * */
 
 import javafx.application.Application;
